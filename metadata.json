@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Biioon Platform AI Implement teste 0001",
+  "description": "Fase 1: Estrutura principal e Marketplace com o produtos AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}
